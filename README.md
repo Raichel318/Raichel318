@@ -74,7 +74,7 @@
 ## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Raichel318-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raichel318)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C0392B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C0392B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raichu12345)
 
 ---
 
@@ -83,4 +83,3 @@
 *"Data is the new lipstick — it makes everything look better."* 💄
 
 </div>
-
