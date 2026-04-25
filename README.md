@@ -60,15 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raichel318&show_icons=true&theme=radical&title_color=C0392B&icon_color=C0392B&text_color=ffffff&bg_color=1a1a2e&border_color=C0392B" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raichel318&layout=compact&theme=radical&title_color=C0392B&text_color=ffffff&bg_color=1a1a2e&border_color=C0392B" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Raichel318&theme=radical&background=1a1a2e&ring=C0392B&fire=C0392B&currStreakLabel=C0392B&border=C0392B" height="165"/>
-
 ---
 
 ## 🤝 Let's Connect
